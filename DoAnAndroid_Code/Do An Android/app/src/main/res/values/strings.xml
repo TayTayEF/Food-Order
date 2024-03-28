@@ -1,0 +1,115 @@
+<resources>
+    //title
+    <string name="app_name">MINISHOP</string>
+    <string name="home">Trang chủ</string>
+    <string name="menu">Danh mục</string>
+    <string name="store">Danh sách cửa hàng</string>
+    <string name="introduce">Giới thiệu chung</string>
+    <string name="contact">Liên hệ</string>
+    <string name="account">Tài khoản</string>
+    <string name="apply">Tuyển dụng</string>
+    <string name="cart">Giỏ hàng</string>
+    <string name="checkout">Thanh toán</string>
+    <string name="notify">Thông báo</string>
+    <string name="introduce_info_top">Thông tin về nhà hàng</string>
+    <string name="res_name">Nhà hàng Food Food</string>
+    <string name="res_address">180 Hai Bà Trưng, Phường Đa Kao, Quận 1, TP.HCM</string>
+    <string name="res_phone">0337 662 557</string>
+    <string name="res_note">Góp ý, đóng góp và đánh giá</string>
+    <string name="res_note_valid">Bạn chưa nhập lời nhắn!</string>
+
+    <string name="continue_buy">Tiếp tục chọn món</string>
+    <string name="buy">Chọn món</string>
+    <string name="menu_detail_title">Chi tiết danh mục</string>
+    <string name="food_detail_title">Chi tiết món</string>
+    <string name="food_search_title">Tìm kiếm món</string>
+
+    <string name="checkout_info">Thông tin thanh toán</string>
+    <string name="user_name">Tên khách hàng</string>
+    <string name="user_email">Email</string>
+    <string name="user_phone">Số điện thoại</string>
+    <string name="user_note">Ghi chú</string>
+    <string name="user_address">Địa chỉ</string>
+    <string name="type_user_name">Nhập tên khách hàng</string>
+    <string name="type_user_search">Nhập tên món</string>
+    <string name="type_user_email">vd: minishop@gmail.com</string>
+    <string name="type_user_phone">Nhập số điện thoại</string>
+    <string name="type_user_note">Nhập lời nhắn...</string>
+    <string name="type_user_address">Nhập địa chỉ...</string>
+
+    /label button
+    <string name="add_to_cart">Thêm vào giỏ</string>
+    <string name="payment">Thanh toán</string>
+    <string name="payment_last">Thanh toán</string>
+    <string name="to_Home">Về trang chủ</string>
+    <string name="sent_mess">Gửi</string>
+    <string name="total_price">Tổng cộng:</string>
+    <string name="yes">Đồng ý</string>
+    <string name="no">Không</string>
+
+    //thông báo!!!
+    <string name="error_network">Không có Internet!</string>
+    <string name="error_server">Không thể kết nối với Server!</string>
+    <string name="empty_cart_notify">Giỏ hàng trống!</string>
+    <string name="validation">Vui lòng nhập đầy đủ thông tin!</string>
+    <string name="none_name">Vui lòng nhập tên khách hàng!</string>
+    <string name="none_email">Vui lòng nhập email!</string>
+    <string name="none_phone">Vui lòng nhập số điện thoại!</string>
+    <string name="invalid_email">Email chưa đúng định dạng!</string>
+    <string name="overload_phone">Số điện thoại không được vượt quá</string>
+    <string name="char_style">ký tự</string>
+
+    <string name="order_send_success">Thành công!</string>
+    <string name="order_send_success_show">Thành công</string>
+    <string name="order_send_error">Lỗi khi gửi đơn hàng!</string>
+    <string name="empty_cart">Vui lòng chọn món trước khi thanh toán!</string>
+    <string name="ask_to_delete">Bạn muốn xóa món này?</string>
+    <string name="mess_send_success">Đã gửi thành công!</string>
+    <string name="mess_send_error">Gửi không thành công!</string>
+    <string name="order_success">Đơn hàng của bạn đã được gửi đi!</string>
+
+    //link hình ảnh
+    <string name="slide_1">https://old.tiendauroi.com/uploads/default/original/2X/b/bc7d2c293b170e9810a6cbf9bcaf5ed316ccface.jpeg</string>
+    <string name="slide_2">https://vnn-imgs-f.vgcloud.vn/2021/03/26/14/loat-deal-khung-trong-dai-tiec-thuong-hieu-nowfood-4-4-1.jpg</string>
+    <string name="slide_3">https://image.phunuonline.com.vn/fckeditor/upload/2021/20210326/images/co-hoi-san-deal-4k-trong-nowfood-_631616742485.jpg</string>
+    <string name="slide_4">https://image.phunuonline.com.vn/fckeditor/upload/2021/20210326/images/co-hoi-san-deal-4k-trong-nowfood-_31616732759.jpg</string>
+    <string name="title_activity_gioi_thieu_chung">GioiThieuChungActivity</string>
+
+    //Giới thiệu công ty
+    <string name="introduce_company">Công ty TNHH MINISHOP Việt Nam,
+Rất hân hạnh được phục vụ quý khách
+Trân trọng.</string>
+    <string name="contact_email">Liên hệ qua Email</string>
+    <string name="user_topic">Chủ đề</string>
+    <string name="type_user_topic">Nhập chủ đề</string>
+    <string name="user_data_contact">Nội dung liên lạc</string>
+    <string name="send_mail">Gửi mail</string>
+    <string name="contact_phone">Liên hệ qua số điện thoại</string>
+    <string name="filter">Lọc</string>
+    <string name="list_store">Danh sách cửa hàng</string>
+    <string name="apply_detail">Chi tiết tuyển dụng</string>
+    <string name="user_login">Đăng nhập</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="register">Đăng ký</string>
+    <string name="forget_password">Quên mật khẩu</string>
+    <string name="repassword">Nhập lại mật khẩu</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="user_email_recover">Email khôi phục</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="answer">Câu hỏi hoặc đóng góp</string>
+    <string name="fanpage">Fanpage</string>
+    <string name="guide">Hướng dẫn</string>
+    <string name="policy"><![CDATA[Chính sách & Điều kiện]]></string>
+    <string name="title_activity_dang_nhap">DangNhapActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="type_user_comment">Thêm bình luận...</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="@dimen/margin_1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:padding="@dimen/margin_1_2"
+        android:layout_marginVertical="@dimen/margin_1_2"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="@dimen/text_size_title"
+            android:textColor="@color/black_rgba_30"
+            android:textStyle="italic|bold"
+            android:id="@+id/userphone"
+            android:text="0376701***"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:textSize="@dimen/text_size_title"
+            android:textColor="@color/primary"
+            android:id="@+id/content"
+            android:textStyle="italic"
+            android:text="Sản phẩm vừa rẻ lại vừa ngon!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <LinearLayout
+            android:background="@color/gray_dark"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+    </LinearLayout>
+
+</LinearLayout>
